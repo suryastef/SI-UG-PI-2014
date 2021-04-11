@@ -2,6 +2,9 @@
 
 ## Judul:
 
+ - Implementasi Sofware Deployment pada System Terdistribusi dengan Platform Kubernetes
+ - Pembangunan Infrastruktur System Terdistribusi menggunakan Platform Kubernetes pada Layanan Cloud Computing Google Cloud Platformq
+ - Software Deployment dengan Cara Terdistribusi menggunakan Platform Kubernetes
  - Purwarupa Infrastruktur Sistem Terdistribusi dengan Kubernetes pada Google Cloud Platform
  - Purwarupa Infrastruktur Sistem Terdistribusi dengan Kubernetes demi mengatasi masalah yang sering terjadi pada single server
  - Implementasi CI/CD Pipeline dengan menggunakan gitlab pada insfrastructure cloud native (kubernetes)
