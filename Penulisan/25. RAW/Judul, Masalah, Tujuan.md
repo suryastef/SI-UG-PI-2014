@@ -2,6 +2,7 @@
 
 ## Judul:
 
+ - Implementasi Platform Continous Integration dan Continous Delivery Pipeline Jenkin pada Ruang Lingkup Sistem Terdistribusi Kubernetes
  - Implementasi Sofware Deployment dengan Metode Canary pada Platform System Terdistribusi Kubernetes
  - Implementasi Sofware Deployment pada System Terdistribusi dengan Platform Kubernetes
  - Pembangunan Infrastruktur System Terdistribusi menggunakan Platform Kubernetes pada Layanan Cloud Computing Google Cloud Platformq
