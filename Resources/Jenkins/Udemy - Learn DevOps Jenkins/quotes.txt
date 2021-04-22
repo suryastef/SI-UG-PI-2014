@@ -1,0 +1,6 @@
+Dengan docker, memungkinkan kita memiliki ruang lingkup software pada local maupun production
+
+Jenkins adalah platform Continous Intergration (CI) dan Continous Delivery (CD) yang open source dan ditulis dalam bahasa Java, berfungsi untuk mengautomatisasi pembangunan dan menghasilkan proyek perangkat lunak, keuntungan yang sangat terlihat adalah, tersedia sangat banyak plugin yang bisa ditanamkan pada jenkins
+
+
+Section 2.5. What is CI/CD
