@@ -14,7 +14,8 @@
  
 ## Masalah:
 
- - Node yang mati tiba-tiba tanpa disengaja dan tidak dapat diprediksi akibat kerusakan fisik
+ - [Kubernetes] Node yang mati tiba-tiba tanpa disengaja dan tidak dapat diprediksi akibat kerusakan fisik
+ - [CI\CD] Pekerjaan software developer yang dilakukan secara manual, developer dapat lebih produktif jika SDLC dapat dilakukan secara automatis
  
 ## Tujuan:
 
